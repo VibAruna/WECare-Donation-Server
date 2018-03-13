@@ -1,0 +1,4 @@
+Please note that the database is automatically setting up at the initial launch of the server. So you don't need to
+create the database manually. Further there is a database backup file called "WECareDatabaseBackup.sql". By using the restore button
+of the server main view, data can be restored.
+The default password of the server is "management".
